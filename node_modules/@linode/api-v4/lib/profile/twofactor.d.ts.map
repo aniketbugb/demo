@@ -1,0 +1,1 @@
+{"version":3,"file":"twofactor.d.ts","sourceRoot":"","sources":["../../src/profile/twofactor.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,MAAM,EAAE,MAAM,SAAS,CAAC;AAEjC;;;;;;;;;GASG;AACH,eAAO,MAAM,WAAW,uBACsD,CAAC;AAE/E;;;;;;;GAOG;AACH,eAAO,MAAM,gBAAgB,mBAC8C,CAAC;AAE5E;;;;;;;;;;;;;;GAcG;AACH,eAAO,MAAM,gBAAgB,aAAc,MAAM;aAC5B,MAAM;EAIxB,CAAC"}
